@@ -1,2 +1,66 @@
-Removed word "Chapter" from chapter titles
-Changed titlecase using Atom==>Shellit
+xRemoved word "Chapter" from chapter titles
+xChanged titlecase using Atom==>Shellit
+cd Dropbox/Standard_eBooks/Captain\ Blood-Cory/rafael-sabatini_captain-blood/
+
+
+<blockquote epub:type="z3998:non-fiction">
+<p>“<span xml:lang="la">Quo, quo, scelesti, ruitis?</span>”⁠</p>
+</blockquote>
+
+Scroll through entire book looking for only italicized words
+Ships
+Sometimes ships have 's so will need to account for that
+x<i epub:type="se:name.vessel.ship">Jamaica Merchant</i>
+x<i epub:type="se:name.vessel.ship">Pride of Devon</i>
+x<i epub:type="se:name.vessel.ship">Cinco Llagas</i>
+x<i epub:type="se:name.vessel.ship">Encarnacion</i>
+x<i epub:type="se:name.vessel.ship">Arabella</i>
+x<i epub:type="se:name.vessel.ship">La Foudre</i>
+x<i epub:type="se:name.vessel.ship">Jongvrouw</i>
+x<i epub:type="se:name.vessel.ship">Santiago</i>
+x<i epub:type="se:name.vessel.ship">Elizabeth</i>
+x<i epub:type="se:name.vessel.ship">Santo Niño</i>
+x<i epub:type="se:name.vessel.ship">Salvador</i>
+x<i epub:type="se:name.vessel.ship">Infanta</i>
+x<i epub:type="se:name.vessel.ship">San Felipe</i>
+x<i epub:type="se:name.vessel.ship">Clotho</i>
+x<i epub:type="se:name.vessel.ship">Lachesis</i>
+x<i epub:type="se:name.vessel.ship">Atropos</i>
+x<i epub:type="se:name.vessel.ship">Milagrosa</i>
+x<i epub:type="se:name.vessel.ship">Hidalga</i>
+x<i epub:type="se:name.vessel.ship">Royal Mary</i>
+x<i epub:type="se:name.vessel.ship">Imperator</i>
+x<i epub:type="se:name.vessel.ship">Victorieuse</i>
+x<i epub:type="se:name.vessel.ship">Medusa</i>
+
+xJamaica Merchant
+xPride of Devon
+xCinco Llagas
+xEncarnacion
+xArabella - Think there is also character named Arabella so be careful with those
+xLa Foudre
+xJongvrouw in scan but spelled Jongvrow in transcription
+xSantiago
+xElizabeth
+xSanto Niño
+xSalvador
+xInfanta
+xSan Felipe
+xClotho 201
+xLachesis 201
+xAtropos 201
+xMilagrosa 203
+xHidalga 203
+xRoyal Mary 205
+xImperator 291
+xVictorieuse 316
+xMedusa 346
+
+xChapter 31 is missing
+xAdded back with semanticate commit
+
+Is Mdlle correct abbreviation? Mademoiselle? Not a semantics issue, but noticed it reviewing inserted semantics
+
+Chapter 22 <pre xml:space="preserve"> used for a song being sung
+
+Formatted headings according to semantics guide
