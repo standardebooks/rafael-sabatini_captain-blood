@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/rafael-sabatini/captain-blood</dc:identifier>
 		<dc:date>2017-10-30T03:43:16Z</dc:date>
-		<meta property="dcterms:modified">2017-10-30T03:43:16Z</meta>
-		<meta property="se:revision-number">1</meta>
+		<meta property="dcterms:modified">2017-11-07T04:05:46Z</meta>
+		<meta property="se:revision-number">2</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,7 +46,7 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1965</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=uva.x000600659;view=thumb;seq=5</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/009790453</dc:source>
 		<meta property="se:word-count">115081</meta>
 		<meta property="se:reading-ease.flesch">72.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Captain_Blood_(novel)</meta>
@@ -56,10 +56,10 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rafael_Sabatini</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50016255</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">N. C. Wyeth</dc:contributor>
-		<meta property="file-as" refines="#artist">Wyeth, N.C.</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/N._C._Wyeth</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79054878</meta>
+		<dc:contributor id="artist">Howard Pyle</dc:contributor>
+		<meta property="file-as" refines="#artist">Pyle, Howard</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Howard_Pyle</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79072830</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
