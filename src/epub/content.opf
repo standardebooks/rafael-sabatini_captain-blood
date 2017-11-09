@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/rafael-sabatini/captain-blood</dc:identifier>
 		<dc:date>2017-10-30T03:43:16Z</dc:date>
-		<meta property="dcterms:modified">2017-11-07T04:05:46Z</meta>
-		<meta property="se:revision-number">2</meta>
+		<meta property="dcterms:modified">2017-11-09T05:11:36Z</meta>
+		<meta property="se:revision-number">3</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -18,7 +18,7 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Captain Blood</dc:title>
-		<meta property="file-as" refines="#title">SORT</meta>
+		<meta property="file-as" refines="#title">Captain Blood</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Sea stories</dc:subject>
 		<dc:subject id="subject-3">Physicians -- Fiction</dc:subject>
@@ -41,7 +41,7 @@
 			&lt;p&gt;During the course of Blood’s servitude, he works on the sugar plantation of Colonel Bishop and becomes infatuated with the colonel’s niece, Arabella. When Bishop realizes that Blood is an accomplished physician he “employs” Blood in that capacity.&lt;/p&gt;
 			&lt;p&gt;When the colony is attacked by a Spanish force, Blood and some of the other slaves manage to escape and take over the Spanish ship. Several of the other escapees turn out to be experienced seaman, including as officers in the British navy. This group turns the Spanish ship into a very successful pirate ship, specializing in raiding Spanish shipping.&lt;/p&gt;
 			&lt;p&gt;This begins Captain Blood’s journey toward redemption and his “courtship” of Arabella.&lt;/p&gt;
-			&lt;p&gt;Sabatini based Blood’s character on several historical figures, including a doctor who was sentenced to slavery (but did not become a pirate), as well as Henry Morgan (who was a pirate). His most well known novel was Scaramouche. Sabatini also wrote a number of short stories about Captain Blood in the early 1920’s.&lt;/p&gt;
+			&lt;p&gt;Sabatini based Blood’s character on several historical figures, including a doctor who was sentenced to slavery (but did not become a pirate), as well as Henry Morgan (who was a pirate). His most well known novel was Scaramouche. Sabatini also wrote a number of short stories about Captain Blood in the early 1920s.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
