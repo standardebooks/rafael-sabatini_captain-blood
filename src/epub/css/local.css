@@ -29,3 +29,7 @@ p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
+
+abbr.compass{
+	white-space: nowrap;
+}
