@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Captain Blood</dc:title>
 		<meta property="file-as" refines="#title">Captain Blood</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
@@ -36,17 +36,23 @@
 		<dc:subject id="subject-5">Pirates -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Caribbean Area -- Fiction</dc:subject>
 		<dc:subject id="subject-7">British -- Caribbean Area -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1965</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1965</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1965</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1965</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/1965</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/1965</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/1965</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85061165</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85119251</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008108880</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85001072</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008109300</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008101168</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2009117603</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Peter Blood, with experience as a soldier and sailor, is practicing medicine in Bridgewater, England, when he inadvertently gets caught up in a rebellion being waged by the Duke of Monmouth. After being convicted of treason, Blood and some of the rebels are sentenced to slavery in the Caribbean. The year is 1688.&lt;/p&gt;
 			&lt;p&gt;During the course of Blood’s servitude, he works on the sugar plantation of Colonel Bishop and becomes infatuated with the colonel’s niece, Arabella. When Bishop realizes that Blood is an accomplished physician he “employs” Blood in that capacity.&lt;/p&gt;
@@ -54,7 +60,6 @@
 			&lt;p&gt;This begins Captain Blood’s journey toward redemption and his “courtship” of Arabella.&lt;/p&gt;
 			&lt;p&gt;Sabatini based Blood’s character on several historical figures, including a doctor who was sentenced to slavery (but did not become a pirate), as well as Henry Morgan (who was a pirate). His most well known novel was Scaramouche. Sabatini also wrote a number of short stories about Captain Blood in the early 1920s.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1965</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009790453</dc:source>
