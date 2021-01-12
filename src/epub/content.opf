@@ -63,7 +63,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1965</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009790453</dc:source>
-		<meta property="se:word-count">115076</meta>
+		<meta property="se:word-count">115074</meta>
 		<meta property="se:reading-ease.flesch">72.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Captain_Blood_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rafael-sabatini_captain-blood</meta>
