@@ -53,7 +53,7 @@
 		<meta property="term" refines="#subject-7">sh2009117603</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.</dc:abstract>
+		<meta property="schema:abstract">An English doctor is caught up in a rebellion and sentenced to transportation to the Caribbean, but later escapes slavery to become a pirate.</meta>
 		<dc:description>
 			&lt;p&gt;Peter Blood, with experience as a soldier and sailor, is practicing medicine in Bridgewater, England, when he inadvertently gets caught up in a rebellion being waged by the Duke of Monmouth. After being convicted of treason, Blood and some of the rebels are sentenced to slavery in the Caribbean. The year is 1688.&lt;/p&gt;
 			&lt;p&gt;During the course of Blood’s servitude, he works on the sugar plantation of Colonel Bishop and becomes infatuated with the colonel’s niece, Arabella. When Bishop realizes that Blood is an accomplished physician he “employs” Blood in that capacity.&lt;/p&gt;
