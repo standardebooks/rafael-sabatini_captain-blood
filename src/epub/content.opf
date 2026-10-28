@@ -64,7 +64,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1965</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/009790453</dc:source>
-		<meta property="schema:wordCount">113490</meta>
+		<meta property="schema:wordCount">113505</meta>
 		<meta property="schema:educationalLevel">72.56</meta>
 		<link href="https://en.wikipedia.org/wiki/Captain_Blood_(novel)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
